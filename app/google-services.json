@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "723747743496",
+    "project_id": "softwarelanguage3",
+    "storage_bucket": "softwarelanguage3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:723747743496:android:d7333d25ca5dd69f1baebd",
+        "android_client_info": {
+          "package_name": "com.example.leseen"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "723747743496-9m1lfrem21loqaqrlfo8n3ol83i5i9lr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsl_mtJQF5MwS24pYfrPXoGedl3yh18u8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "723747743496-9m1lfrem21loqaqrlfo8n3ol83i5i9lr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
